@@ -4,14 +4,13 @@
 
 body {
   margin: 0%;
-  padding: 0%;
-  background-color: red; }
+  padding: 0%; }
   body .header {
-    background-color: blueviolet;
+    background-color: #328bd4;
     width: 100%;
     height: 140px; }
     body .header ul {
-      display: no; }
+      display: none; }
   body article {
     margin-bottom: 10px;
     margin-top: 10px; }
